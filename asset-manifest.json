@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ghithub-pages-test/static/css/main.6fed0e25.css",
+    "main.js": "/ghithub-pages-test/static/js/main.6bc557ad.js",
+    "static/media/sunny1.jpg": "/ghithub-pages-test/static/media/sunny1.1d69f4af8613af1a6b39.jpg",
+    "index.html": "/ghithub-pages-test/index.html",
+    "main.6fed0e25.css.map": "/ghithub-pages-test/static/css/main.6fed0e25.css.map",
+    "main.6bc557ad.js.map": "/ghithub-pages-test/static/js/main.6bc557ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fed0e25.css",
+    "static/js/main.6bc557ad.js"
+  ]
+}
